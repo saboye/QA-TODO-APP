@@ -1,3 +1,19 @@
+### <h1 align="center" style="color:blue;" id="heading">TODO APP for QA</h1>
+
+![GitHub contributors](https://img.shields.io/github/contributors/saboye/QA-TODO-APP?color=blue&logo=github&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/saboye/QA-TODO-APP?logo=github&style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues-raw/saboye/QA-TODO-APP?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/saboye/QA-TODO-APP?label=license&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/saboye/QA-TODO-APP?style=for-the-badge)
+
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a>
+    <img src="./images/TODO.png" alt="Logo" width="450" height="500">
+  </a>
+</p>
 
 # QA TODO APP
 <p align="justify">
