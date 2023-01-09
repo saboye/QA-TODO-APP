@@ -17,7 +17,7 @@
 
 # QA TODO APP
 <p align="justify">
-This repository contains a QA TODO app that allows users to track a tasks. Built with HTML, CSS, and JavaScript and browser storage to save data. It includes a "before" version for initial QA purposes and an "after" version that demonstrates the changes made after a QA task is completed. The primary purpose of this app is to create an automation test framework that can detect and fix issues within the app.</p>
+This repository contains a task management app  Built with HTML, CSS, JavaScript, and browser storage to save data. The App's primary purpose is for the quality assurance (QA) demo. The repository includes two versions of the App. The "before" version is for initial QA purposes, and the "after" version demonstrates the changes made after a QA task is completed. </p>
 
 ## Features
 - Add and remove QA tasks
@@ -29,6 +29,17 @@ This repository contains a QA TODO app that allows users to track a tasks. Built
 
 <p align="justify">
 You can use the app to make QA tasks as needed. To start with the app, clone this repository to your local machine and open the "before" version of the app in your preferred web browser. You can view the "after" version to see the changes made after QA tasks have been fixed. Create an automation test for all the test cases and resolve the issue on the "before" version.</p>
+
+```ruby
+  git clone https://github.com/saboye/QA-TODO-APP.git
+  
+  cd QA-TODO-APP
+```
+
+```ruby
+  npm install
+
+```
 
 ## Prerequisites
 This app requires a web browser to run and the latest versions of playwright.
