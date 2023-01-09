@@ -16,6 +16,8 @@
   },
   "homepage": "https://github.com/saboye/QA-TODO-APP#readme",
   "devDependencies": {
-    "@playwright/test": "^1.29.2"
+    "@playwright/test": "^1.29.2",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
   }
 }
