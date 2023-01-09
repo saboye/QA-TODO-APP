@@ -42,7 +42,7 @@ You can use the app to make QA tasks as needed. To start with the app, clone thi
 ```
 
 ## Prerequisites
-This app requires a web browser to run and the latest versions of playwright.
+This app requires a web browser to run and the latest versions of playwright, Chai and Mocha.
 
 ## Contributing
 <p align="justify">If you want to contribute to this project, please fork this repository and submit a pull request with your changes. All contributions are welcome and appreciated!</P>
