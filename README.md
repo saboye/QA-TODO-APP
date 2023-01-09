@@ -1,4 +1,4 @@
-### <h1 align="center" style="color:blue;" id="heading">TODO APP for QA</h1>
+### <h1 align="center" style="color:blue;" id="heading">TODO APP QA with Playwright and Chai</h1>
 
 ![GitHub contributors](https://img.shields.io/github/contributors/saboye/QA-TODO-APP?color=blue&logo=github&style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/saboye/QA-TODO-APP?logo=github&style=for-the-badge)
