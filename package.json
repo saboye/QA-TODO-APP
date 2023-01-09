@@ -1,0 +1,21 @@
+{
+  "name": "qa-todo-app",
+  "version": "1.0.0",
+  "description": "<p align=\"justify\">\r This repository contains a QA TODO app that allows users to track a tasks. Built with HTML, CSS, and JavaScript and browser storage to save data. It includes a \"before\" version for initial QA purposes and an \"after\" version that demonstrates the changes made after a QA task is completed. The primary purpose of this app is to create an automation test framework that can detect and fix issues within the app.</p>",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saboye/QA-TODO-APP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saboye/QA-TODO-APP/issues"
+  },
+  "homepage": "https://github.com/saboye/QA-TODO-APP#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2"
+  }
+}
